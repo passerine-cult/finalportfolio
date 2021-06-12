@@ -9,7 +9,7 @@ Worse yet, Seattle has a bad track record of trying to herd around its populatio
 
 I’ve toured around the city to find examples of such “hostile architecture”; it comprises architectural designs intentionally engineered to limit one’s sense of “being” in a particular place, which directly contradicts the idea of parks and buildings being public areas. Not only do they make it hard for those experiencing homelessness to find a place to rest, they also make it hard for the rest of us to enjoy these areas that should be free to everyone. And frankly, doing this just wastes time, money, and resources that could have been better used to actually aid people in need, so it really reflects poorly on the intentions of city management.
 
-![The Statue of Liberty on Alki Beach](benches.PNG)
+![The Statue of Liberty on Alki Beach](./benches.PNG)
 
 This is a photo of the Statue of Liberty on Alki Beach in Seattle. Notice the bench in the foreground, and the metal armrests on the bench. This was designed so as to deter people from sleeping on them. You’d have to be pretty short in order to fit in between those bars, and it makes them a bit uncomfortable should the bench ever be crowded. Especially on a hot summer day, they’ll probably burn you since they’re made of metal. And who’s going to be sitting on or holding onto these things? It doesn’t make any sense at all. That metal could have been used to build a homeless shelter instead of trying to limit where they can sleep.
 
@@ -21,7 +21,7 @@ In early 2018, Seattle installed these bike racks underneath a Highway 99 overpa
 
 Animosity against the Seattle Police Department was already brewing when people saw them clearing out homeless camps, with resentment going into full overdrive after the George Floyd protests a year back. It’s not uncommon to see a sticker saying “Defund SPD” on a street sign in the city, and frankly their funding should go to help those who are homeless, not kick them out of an area.
 
-![Concrete slabs on Alki Beach](concrete.PNG)
+![Concrete slabs on Alki Beach](./concrete.PNG)
 
 Also on Alki beach is something very subtle but annoying nonetheless: the gaps between the concrete blocks that line the walk along the shore. This deters skaters from grinding on these blocks and makes it really dangerous to do so. It doesn't make sense in this situation, because these concrete slabs are constantly exposed to the elements and being worn down every day, so trying to prevent grinding on them is a bit of a fruitless endeavour when they're going to have to be replaced every so often anyway. It would be reasonable if it were something like a public work of art, but in this case, it's unnecessary.
 
